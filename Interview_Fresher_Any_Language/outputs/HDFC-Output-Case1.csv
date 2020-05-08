@@ -1,0 +1,16 @@
+,Date,Transaction_Desciption,Debit,Credit,CardName,Transaction
+0,12-01-2018,STIC TRAVELS PVT LTD DELHI         ,32256 cr,0,Rahul,Domestic
+1,13-01-2018,FLIPKART INTERNET PRIVATE BANGALORE,211687,0,Rahul,Domestic
+2,14-01-2018,FLEMINGO DUTY FREE Mumbai          ,18796.99,0,Rahul,Domestic
+3,14-01-2018,AIRTEL PAYMENT MUMBAI              ,1297,0,Rahul,Domestic
+4,14-01-2018,AIRTEL PAYMENT CHENNAI             ,902 cr,0,Rahul,Domestic
+5,17-01-2018,PAYTM NOIDA                        ,165,0,Ritu,Domestic
+6,17-01-2018,BIKANERVALA GURGAON                ,325,0,Ritu,Domestic
+7,19-01-2018,VFS GLOBAL SERVICES PVT MUMBAI     ,1200,0,Ritu,Domestic
+8,21-01-2018,Amazon Seller Services BANGALORE   ,2155 cr,0,Ritu,Domestic
+9,13-01-2018,SRILANKANUPGRADE KATUNAYAKE         EUR,6,0,Rahul,International
+10,14-01-2018,HEALTHGUARD LIMITED KATUNAYAKE      USD,5 cr,0,Rahul,International
+11,14-01-2018,FOOT RUB BERLIN                  EUR,20,0,Rahul,International
+12,20-01-2018,California Games CALIFORNIA         USD,100,0,Rahul,International
+13,30-01-2018,NewYorkShop NEWYORK                 USD,200 cr,0,Rahul,International
+14,08-02-2018,EURO WINGS DUSSELDOR                EUR,5,0,Rahul,International
